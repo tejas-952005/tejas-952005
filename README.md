@@ -8,5 +8,5 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tejas-952005/tejas-952005/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tejas-952005/tejas-952005/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tejas-952005/tejas-952005/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" width="100%" src="https://raw.githubusercontent.com/tejas-952005/tejas-952005/output/pacman-contribution-graph.svg">
 </picture>
